@@ -1,1 +1,1 @@
-# JobTitle_MedianSalary_JobType
+# Job Salary based on Location and Job Type
