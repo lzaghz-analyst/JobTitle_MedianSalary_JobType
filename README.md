@@ -1,4 +1,4 @@
-* 📊 Overview
+📊 # Overview
   
 This project is a salary analytics dashboard built using Microsoft Excel. It visualizes compensation trends and job data for tech roles like Data Analyst, Software Engineer, and Data Scientist, segmented by job title, country, and employment type.
 
