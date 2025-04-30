@@ -4,6 +4,7 @@ This project is a salary analytics dashboard built using Microsoft Excel. It vis
 
 The dashboard enables recruiters, job seekers, and analysts to explore how different job categories compare in terms of median salary, hiring platforms, and job availability — using filters for location, role, and job type.
 
-![Dashboard Overview](![image](https://github.com/user-attachments/assets/a47eb1ba-53f3-450f-944c-1910df1c5665))
+![Dashboard Overview](![salary_dashboard_screenshot](https://github.com/user-attachments/assets/7fdb20a1-3a86-40c7-8c1b-a93f62ad6162))
+
 
 
